@@ -1,5 +1,5 @@
 
-import MarkdownRenderer from "./mdRenderer";
+import MarkdownRenderer from "./mdRenderer.jsx";
 
 const MarkdownContainer = ({ content }) => { 
   return (

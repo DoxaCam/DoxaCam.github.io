@@ -1,7 +1,7 @@
 
 
-import MarkdownContainer from './Components/mdContainer';
-import ArtEssay from './docs/ArtEssay';
+import MarkdownContainer from './Components/mdContainer.jsx';
+import ArtEssay from './docs/ArtEssay.js';
 import './App.css'; 
 
 
