@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+}
+
+.markdown-container {
+  /* 1. Define a max-width */
+  max-width: 800px; 
+  width: 90%; /* Good practice for responsiveness */
+
+  /* 2. Set horizontal margins to auto - This is the centering trick! */
+  margin-left: auto;
+  margin-right: auto; 
+
+  /* Optional styling */
+  padding: 20px;
+  background-color: #f7e3e3;
+  border: 1px solid #330a0a;
+  
+  /* You can set the top/bottom margin explicitly, e.g., margin: 50px auto; */
+  margin-top: 50px; 
+}
