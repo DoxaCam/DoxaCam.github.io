@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react()],
-  base: '/2D-and-3D-fractals/'
+  base: '/DoxaCam.github.io/',
+  plugins: [react()]
 })
